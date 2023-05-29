@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Notuc
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning cs,ml,ai,SWE,SWD
-- 📫 How to reach me gale.nathann@gmail.com
+- 👀 I’m interested in Quant finance
+- 🌱 I’m currently learning CS and Math @ albright college
+- 📫 How to reach me gale.nathann@gmail.com or shoot a text at 571-376-1294
 
