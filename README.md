@@ -89,21 +89,6 @@ When I'm not coding or solving differential equations, you can find me:
 - Classics
 - Cool Math/Programming Topics
 
-
-
----
-
-## 🚀 Current Side projects
-
-```python
-current_projects = {
-    "Distributed Systems": "Building a Raft consensus-based key-value store from scratch",
-    "Quantitative Finance": "Stochastic calculus and option pricing models(check my website)",
-    "Embeded/Systems Programming": "C++, Rust, and low-level optimization",
-    "Robtoics/AI Hardware": "Embedded AI-Powered Glasses for Real-Time Text Detection and Translation"
-}
-```
-
 ---
 
 ## 📫 Let's Connect!
