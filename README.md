@@ -27,31 +27,6 @@ class Nathan {
 
 ---
 
-## 💼 Worked at theses cool places
-
-### 🏦 **JP Morgan** | *Quantitative Research Mentee*
-**Apr 2024 - Sept 2024**
-- Conducted case study projects and capital market research with senior mentors
-- Specialized in **Time Series Analysis**, **Stock Market Prediction**, **Monte Carlo Simulation**
-- Worked on **Option Pricing**, **Risk Management**, and **Interest Rate & Credit Pricing**
-- Applied quantitative methods to real-world financial problems
-
-### 🔬 **Albright College** | *Undergraduate Researcher*
-**Dec 2023 - Feb 2024**
-- Conducted mathematics research in **Combinatorics**, **Game Theory**, and **Graph Theory**
-- Analyzed data, contributed to literature review, and performed complex mathematical computations
-- **Presented research** at the Mathematical Association of America conference
-- Leveraged Python for mathematical modeling and data analysis
-
-### 💻 **Crocodile Solutions Inc** | *Software Engineer Intern*
-**Jan 2023 - Apr 2023**
-- Modernized legacy frontend (from 2009), increasing customer retention by **5%**
-- Built backend services using **API keys** and **JWT tokens** for authentication/authorization
-- Developed and maintained software applications with focus on security and scalability
-- Troubleshot and debugged production code
-
----
-
 ## 🛠️ Tech I like using
 
 <div align="center">
